@@ -1,7 +1,8 @@
 {
-  "name": "nextjs-15-social-media-app",
+  "name": "social",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@9.4.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
